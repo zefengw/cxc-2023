@@ -128,5 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Ignore committing dataset files
-data/
+# Ignore committing cyclica dataset files
+cyclica/
